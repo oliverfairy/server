@@ -1,0 +1,6 @@
+[submodule "proto/proto-common"]
+	path = proto/proto-common
+	url = git@github.com:oliverfairy/proto-common.git
+[submodule "proto/proto-developer"]
+	path = proto/proto-developer
+	url = git@github.com:oliverfairy/proto-developer.git
